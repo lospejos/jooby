@@ -32,7 +32,7 @@
     <mysql-connector-java.version>8.0.22</mysql-connector-java.version>
     <log4jdbc.version>1.2</log4jdbc.version>
     <h2.version>1.4.200</h2.version>
-    <hibernate.version>5.4.24.Final</hibernate.version>
+    <hibernate.version>5.4.26.Final</hibernate.version>
     <ebean.version>12.6.1</ebean.version>
     <jdbi.version>3.18.0</jdbi.version>
     <flyway.version>7.3.1</flyway.version>
@@ -69,7 +69,7 @@
     <!-- Server -->
     <undertow.version>2.2.3.Final</undertow.version>
     <jetty.version>9.4.35.v20201120</jetty.version>
-    <netty.version>4.1.55.Final</netty.version>
+    <netty.version>4.1.56.Final</netty.version>
     <boringssl.version>2.0.27.Final</boringssl.version>
 
     <!-- Reactive -->
@@ -78,7 +78,7 @@
 
     <!--OpenAPI-->
     <swagger.version>2.1.6</swagger.version>
-    <swagger-parser.version>2.0.23</swagger-parser.version>
+    <swagger-parser.version>2.0.24</swagger-parser.version>
     <redoc.version>2.0.0-rc.20</redoc.version>
 
     <!-- javax -->
@@ -129,7 +129,7 @@
     <maven-antrun-plugin.version>3.0.0</maven-antrun-plugin.version>
     <maven-archetype-plugin.version>3.2.0</maven-archetype-plugin.version>
     <maven-assembly-plugin.version>3.3.0</maven-assembly-plugin.version>
-    <maven-tiles-plugin.version>2.18</maven-tiles-plugin.version>
+    <maven-tiles-plugin.version>2.19</maven-tiles-plugin.version>
     <maven-checkstyle-plugin.version>3.1.1</maven-checkstyle-plugin.version>
     <maven-compiler-plugin.version>3.8.1</maven-compiler-plugin.version>
     <maven-core.version>3.6.3</maven-core.version>
